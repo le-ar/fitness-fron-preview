@@ -1,0 +1,2 @@
+(this.webpackJsonpfrontend=this.webpackJsonpfrontend||[]).push([[5],{105:function(n,e,t){"use strict";t.r(e);var i,c=t(8),r=t(9),o=t(0);var s=Object(r.a)((function(n){return Object(o.jsx)("div",{children:"hello"})}))(i||(i=Object(c.a)(["\n    display: flex;\n    flex-direction: column;\n    min-height: 100vh;\n"])));e.default=s}}]);
+//# sourceMappingURL=5.bfcb9cab.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpfrontend=this.webpackJsonpfrontend||[]).push([[8],{106:function(t,e,n){"use strict";n.r(e);var c,s=n(8),u=n(1),a=n(20),o=n(9),r=n(32),f=n(0);var b=Object(o.a)((function(t){var e=Object(u.useContext)(r.a);return Object(u.useEffect)((function(){null===e||void 0===e||e.setUser(null)}),[e]),Object(f.jsx)(a.a,{to:"/auth"})}))(c||(c=Object(s.a)([""])));e.default=b}}]);
+//# sourceMappingURL=8.0c9d7755.chunk.js.map
